@@ -1,1 +1,3 @@
 This is  secound file which is helpful to  check on merge and rebase and other examples
+
+this is third one  for  checking   merging  3 way merging commit 
