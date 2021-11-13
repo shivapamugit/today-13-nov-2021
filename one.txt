@@ -1,1 +1,3 @@
 This is sample one file
+
+ this also  considered  as  3 way merger concept purpose
